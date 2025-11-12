@@ -2,10 +2,6 @@
  
 //** Author: Gulsim Azirakhmet                             **//
  
-//** Date Created: December 6, 2021                        **//
- 
-//** Assignment 4: Robot Kinematics                        **//
- 
 //** UH-1000 Computer Programming for Engineers, NYUAD     **//
  
 //** Problem:                                              **//
